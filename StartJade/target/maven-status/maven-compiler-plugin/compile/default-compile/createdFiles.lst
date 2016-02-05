@@ -1,0 +1,11 @@
+agents/example1/AgentB$ReceiveMessage.class
+agents/example1/AgentA$SendMessage.class
+agents/example2/AgentB.class
+princ/Principal.class
+behaviours/example2/SendNbValuesBehaviour.class
+agents/example2/AgentA.class
+agents/example1/AgentA.class
+agents/example1/AgentEmpty.class
+behaviours/example2/SumNbReceivedValuesBehaviour.class
+behaviours/example2/ReceiveMessageBehaviour.class
+agents/example1/AgentB.class

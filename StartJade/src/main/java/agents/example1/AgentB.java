@@ -14,6 +14,12 @@ import jade.lang.acl.MessageTemplate;
  */
 public class AgentB extends Agent{
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -6327128815533680207L;
+
+
 	protected void setup(){
 
 		super.setup();

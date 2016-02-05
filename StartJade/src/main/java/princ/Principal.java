@@ -218,7 +218,7 @@ public class Principal {
 		ContainerController c;
 		String agentName;
 		String containerName;
-		List<AgentController> agentList=new ArrayList();
+		List<AgentController> agentList=new ArrayList<AgentController>();
 
 		switch (EXAMPLE_TO_RUN) {
 		case 1:

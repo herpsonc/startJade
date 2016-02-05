@@ -6,7 +6,7 @@ import jade.core.AID;
 import jade.core.Agent;
 import jade.core.behaviours.SimpleBehaviour;
 import jade.lang.acl.ACLMessage;
-import javafx.scene.paint.RadialGradient;
+
 
 /***
  * This behaviour allows the agent who possess it to send nb random int within [0-100[ to another agent whose local name is given in parameters

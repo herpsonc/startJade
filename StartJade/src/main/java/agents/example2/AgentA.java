@@ -1,5 +1,4 @@
 package agents.example2;
-import java.util.List;
 
 import behaviours.example2.ReceiveMessageBehaviour;
 import behaviours.example2.SendNbValuesBehaviour;
@@ -14,6 +13,11 @@ import jade.core.Agent;
  *
  */
 public class AgentA extends Agent{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1410401284578853709L;
 
 	protected void setup(){
 

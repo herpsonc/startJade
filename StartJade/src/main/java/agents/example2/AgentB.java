@@ -12,6 +12,11 @@ import jade.core.Agent;
  */
 public class AgentB extends Agent{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 3499482209671348272L;
+
 	protected void setup(){
 
 		super.setup();

@@ -2,6 +2,8 @@
 
 Using the Jade's documentation, you can hardly find how to launch a platform from source code. This project only aims to show you how simple it is to create and launch some agents with jade from the code through a few examples.
 
+This is a maven project packaged for Eclipse.
+
  - Example 1 :
   - 1 main container, 3 containers, 4 agents
   - Agent0 on container1
@@ -16,6 +18,8 @@ Using the Jade's documentation, you can hardly find how to launch a platform fro
   
   AgentA will send 10 random values to agentSUM, which will compute the sum and return the result to agentA.
  
+The main class is the Principal.java file. The others implement the differents types of agents and their respectives behaviours.
+
 In both examples, the "pause" when launching the platform  is just here to give you the possibility to activate the sniffer agent from its GUI in order to sniff the agents and to graphically see the message passing process. In any case, I choose here to print the message sent/received on the standard output.
  
 For sake of simplicity, the creation of the containers and of the agents is hardcoded, 

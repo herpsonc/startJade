@@ -1,6 +1,6 @@
 # startJade
 
-Using the Jade's documentation, you can hardly find how to launch a platform from source code. This project only aims to show you how simple it is to create and launch some agents with jade from the code through a few examples.
+Using the [JADE](http://jade.tilab.com)'s documentation, you can hardly find how to launch a platform from source code. This project only aims to show you how simple it is to create and launch some agents with jade from the code through a few examples.
 
 This is a maven project packaged for Eclipse.
 
@@ -18,12 +18,14 @@ This is a maven project packaged for Eclipse.
   
   AgentA will send 10 random values to agentSUM, which will compute the sum and return the result to agentA.
  
-The main class is the Principal.java file. The others implement the differents types of agents and their respectives behaviours.
+The main class is the Principal.java file. The others implement the differents types of agents and their respectives behaviours. 
 
-In both examples, the "pause" when launching the platform  is just here to give you the possibility to activate the sniffer agent from its GUI in order to sniff the agents and to graphically see the message passing process. In any case, I choose here to print the message sent/received on the standard output.
- 
 For sake of simplicity, the creation of the containers and of the agents is hardcoded, 
 and I do not activate the sniffer by default. It is bad.
+
+
+See the [wiki](https://github.com/herpsonc/startJade/wiki) for installation and execution details
+
 
 
 > Cédric Herpson, version 05/01/2011, 

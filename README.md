@@ -1,5 +1,6 @@
-This version is outdated. 
-Visit : https://gitlab.com/herpsonc/startJade/wikis/home for the latest.
+# This version is outdated
+
+## Please, visit: https://gitlab.com/herpsonc/startJade/wikis/home for the latest.
 
 # startJade
 

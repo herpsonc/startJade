@@ -1,3 +1,6 @@
+This version is outdated. 
+Visit : https://gitlab.com/herpsonc/startJade/wikis/home for the latest.
+
 # startJade
 
 Using the [JADE](http://jade.tilab.com)'s documentation, you can hardly find how to launch a platform from source code. This project only aims to show you how simple it is to create and launch some agents with jade from the code through a few examples.
